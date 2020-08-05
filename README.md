@@ -4,7 +4,7 @@
 #### This repository can be use as personal or education document to understand new things.
 
 > # Javascript
-> #### [Promise](https://www.google.com)
+> #### [Promise](https://github.com/LeviosDrake/technologic-watch/blob/master/ENG/JS/promise.js)
 
 # Français
 
@@ -12,4 +12,4 @@
 #### Ce repository peux être utilisé comme document personnel ou d'éducation pour comprendre de nouvelles choses.
 
 > # Javascript
-> #### [Promesse](https://www.google.com)
+> #### [Promesse](https://github.com/LeviosDrake/technologic-watch/blob/master/FRA/JS/promesse.js)
